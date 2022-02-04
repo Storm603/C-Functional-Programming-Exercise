@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\bin\Debug\netcoreapp3.1\T06. Reverse and Exclude.exe
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\bin\Debug\netcoreapp3.1\T06. Reverse and Exclude.deps.json
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\bin\Debug\netcoreapp3.1\T06. Reverse and Exclude.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\bin\Debug\netcoreapp3.1\T06. Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\bin\Debug\netcoreapp3.1\T06. Reverse and Exclude.dll
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\bin\Debug\netcoreapp3.1\T06. Reverse and Exclude.pdb
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\obj\Debug\netcoreapp3.1\T06. Reverse and Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\obj\Debug\netcoreapp3.1\T06. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\obj\Debug\netcoreapp3.1\T06. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\obj\Debug\netcoreapp3.1\T06. Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\obj\Debug\netcoreapp3.1\T06. Reverse and Exclude.dll
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\obj\Debug\netcoreapp3.1\T06. Reverse and Exclude.pdb
+C:\Users\Kristiyan\source\repos\Functional Programming Exercise\T06. Reverse and Exclude\obj\Debug\netcoreapp3.1\T06. Reverse and Exclude.genruntimeconfig.cache
